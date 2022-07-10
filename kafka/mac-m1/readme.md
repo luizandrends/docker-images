@@ -49,7 +49,7 @@ git clone git@github.com:wurstmeister/kafka-docker.git
 Para a criacao dos topicos temos os scripts ja prontos dentro do arquivo ```/scripts```. Basta somente executar os comandos abaixo para dar a permissao de execucao
 
 ```
-cd /scripts
+cd scripts
 ```
 
 ```
