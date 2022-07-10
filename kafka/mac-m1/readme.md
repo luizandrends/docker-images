@@ -49,7 +49,7 @@ git clone git@github.com:wurstmeister/kafka-docker.git
 Para a criacao dos topicos temos os scripts ja prontos dentro do arquivo ```/mac-m1-scripts```. Basta somente executar os comandos abaixo para dar a permissao de execucao
 
 ```
-cd /kafka/mac-m1-scripts
+cd /kafka/mac-m1/mac-m1-scripts
 ```
 
 ```

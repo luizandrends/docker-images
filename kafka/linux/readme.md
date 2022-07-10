@@ -19,10 +19,10 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 
 ## Topicos
 
-Para a criacao dos topicos temos os scripts ja prontos dentro do arquivo ```/linux-scripts```. Basta somente executar os comandos abaixo para dar a permissao de execucao
+Para a criacao dos topicos temos os scripts ja prontos dentro do arquivo ```/scripts```. Basta somente executar os comandos abaixo para dar a permissao de execucao
 
 ```
-cd /kafka/linux-scripts
+cd /kafka/linux/scripts
 ```
 
 ```
@@ -35,7 +35,7 @@ Para fazer a criacao dos containers voce pode executar o comando abaixo dentro d
 docker-compose up
 ```
 
-Apos a criacao dos containers voce pode executar o arquivo de criacao de topicos na pasta ``/linux-scripts``
+Apos a criacao dos containers voce pode executar o arquivo de criacao de topicos na pasta ``/scripts``
 
 ```
 ./create-topics.sh
