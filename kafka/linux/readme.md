@@ -22,7 +22,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 Para a criacao dos topicos temos os scripts ja prontos dentro do arquivo ```/scripts```. Basta somente executar os comandos abaixo para dar a permissao de execucao
 
 ```
-cd /kafka/linux/scripts
+cd linux/scripts
 ```
 
 ```
