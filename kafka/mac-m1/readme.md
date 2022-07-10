@@ -46,10 +46,10 @@ git clone git@github.com:wurstmeister/kafka-docker.git
 
 ## Topicos
 
-Para a criacao dos topicos temos os scripts ja prontos dentro do arquivo ```/mac-m1-scripts```. Basta somente executar os comandos abaixo para dar a permissao de execucao
+Para a criacao dos topicos temos os scripts ja prontos dentro do arquivo ```/scripts```. Basta somente executar os comandos abaixo para dar a permissao de execucao
 
 ```
-cd /kafka/mac-m1/mac-m1-scripts
+cd /scripts
 ```
 
 ```
@@ -62,7 +62,7 @@ Para fazer a criacao dos containers voce pode executar o comando abaixo dentro d
 docker-compose up
 ```
 
-Apos a criacao dos containers voce pode executar o arquivo de criacao de topicos na pasta ``/mac-m1-scripts``
+Apos a criacao dos containers voce pode executar o arquivo de criacao de topicos na pasta ``/scripts``
 
 ```
 ./create-topics.sh
